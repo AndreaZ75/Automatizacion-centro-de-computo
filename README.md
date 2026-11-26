@@ -2,13 +2,16 @@
 
 Aplicación web para reservar y usar los laboratorios de cómputo
 
+https://script.google.com/macros/s/AKfycbzHrQ5itITbaOo7FFCgU3D3JesUoRFy0aYJJfT__PvZuWEel7hkYIDMiBEkMd9sfzIp/exec
+
 Proyecto individual de la materia Fundamentos de Ingeniería de Software
 
 - **Autora:** Andrea Dalith Zavala Barbosa
 - **Carrera:** Ingeniería en Sistemas Computacionales
 
 ## Captura de inicio de sesión
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-21 at 2 20 00 AM" src="https://github.com/user-attachments/assets/044c39e3-2b9b-4374-8754-19312a9c0871" /
+<img width="658" height="1280" alt="WhatsApp Image 2026-11-25 at 8 31 50 PM" src="https://github.com/user-attachments/assets/a57818cc-ecf5-4272-b116-7614ca80208c" />
+
 
 ## ¿Qué problema resuelve?
 
